@@ -2,4 +2,4 @@
 En repo som jag tänker ta bort när jag lärt mig grunderna
 ## Än en ändring
 Dennis har gått in och gjort ändringar i den här filen
-## Gruppledare gör en ändring
+### En gruppmedlem gör en ändring samtidigt som gruppledaren
