@@ -14,3 +14,4 @@ Denna gången med git bash
 Med global config user.email
 #### Ändrade global email men inte user.name
 Test #1337
+#### Nu ändrat även user.name
