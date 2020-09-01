@@ -12,3 +12,5 @@ Som thesourmango
 Denna gången med git bash
 #### Låt oss kolla vscode nu
 Med global config user.email
+#### Ändrade global email men inte user.name
+Test #1337
