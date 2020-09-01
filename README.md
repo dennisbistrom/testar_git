@@ -10,3 +10,5 @@ En gruppkumpan alltså
 Som thesourmango
 #### One more time
 Denna gången med git bash
+#### Låt oss kolla vscode nu
+Med global config user.email
